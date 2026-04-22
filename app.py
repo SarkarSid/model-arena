@@ -62,7 +62,7 @@ MODEL_MAP = {m.key: m for m in ALL_MODELS}
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## ⚔️ Model Arena")
-    st.caption("Rabobank GDAP · Future Fit Day")
+    st.caption("Future Fit Day")
     st.divider()
 
     if ALL_MODELS:
