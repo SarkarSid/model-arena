@@ -1,6 +1,6 @@
 """
 Model Arena — LLM comparison and benchmarking
-Rabobank GDAP · Future Fit Day
+Future Fit Day
 """
 import concurrent.futures
 from datetime import datetime
