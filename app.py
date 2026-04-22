@@ -98,7 +98,7 @@ with st.sidebar:
 # ── Header ────────────────────────────────────────────────────────────────────
 st.markdown('<p class="arena-title">⚔️ Model Arena</p>', unsafe_allow_html=True)
 st.markdown(
-    '<p class="arena-sub">Side-by-side LLM comparison · Rabobank GDAP Future Fit Day</p>',
+    '<p class="arena-sub">Side-by-side LLM comparison · Future Fit Day</p>',
     unsafe_allow_html=True,
 )
 st.divider()
